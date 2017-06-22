@@ -22,7 +22,7 @@ Our group members are working on a range of projects.
 
 ### Postgrads
  * Michele Filannino ()
- * Ziyu Wang ()
+ * Ziyu Wang is a research fellow with the group. His research focuses on machine learning/statistical inference as applied to clinical test predictions, which is part of a clinical decision support system.
  * Arthur Shr ()
  * Marzyeh Ghassemi (http://mghassem.mit.edu) 
    is a post-doctoral fellow with the group, and a Google/Verily Visiting Researcher. Her research interests include 
